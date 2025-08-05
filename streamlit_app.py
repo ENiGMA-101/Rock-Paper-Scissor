@@ -208,4 +208,4 @@ if last_user_choice is not None and last_computer_choice is not None:
     st.markdown(f"<div class='result-msg'>{last_result}</div>", unsafe_allow_html=True)
 
 st.markdown("---")
-st.markdown("<div class='footer'>Made with ❤️<br/>Feeling lucky? Play again!</div>", unsafe_allow_html=True)
+st.markdown("<div class='footer'>Made with ❤️ <br/>Feeling lucky? Play again!</div>", unsafe_allow_html=True)
